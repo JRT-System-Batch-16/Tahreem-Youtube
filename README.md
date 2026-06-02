@@ -47,8 +47,3 @@ A small frontend project demonstrating a YouTube-like UI built with Vite, React,
 - This project uses Tailwind utilities in `src/index.css` and the configuration in `tailwind.config.js`.
 - Vite handles fast HMR during development.
 
-## Contributing
-Feel free to open issues or submit pull requests. Keep changes focused and use descriptive commit messages.
-
-## License
-This project has no license specified. Add a `LICENSE` file if you want to set one.
